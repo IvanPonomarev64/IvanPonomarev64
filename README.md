@@ -16,7 +16,7 @@
           I am also familiar with HTML5. I don't have any projects here, but maybe they will be here soon.
         </p>
     </li>
-    <li><h4> What frameworks will I use: </h4>
+    <li><h4> What frameworks I use: </h4>
         <a href=https://github.com/IvanPonomarev64/dj-homeworks-drf.git target="_blank">
           <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
           <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray">

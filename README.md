@@ -4,7 +4,7 @@
 <h3 align="center"> Junior Python Developer from Russia 🇷🇺 </h3>
 
 <h3> What I work with: </h3>
-<h6> Note: All links are valid except: HTML, SQLite and OS.</h6>
+<h6> Note: All links are valid except: HTML and OS.</h6>
 <ul type=square>
     <li><h4>Languages:</h4>
         <a href=https://github.com/IvanPonomarev64/my-python-final-diplom.git target="_blank">
@@ -20,6 +20,8 @@
     <li><h4> What frameworks I use: </h4>
         <a href=https://github.com/IvanPonomarev64/dj-homeworks-drf.git target="_blank">
           <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
+        </a>
+        <a href=https://github.com/IvanPonomarev64/YouTubeDRF.git>
           <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray">
         </a>
         <a href="https://github.com/IvanPonomarev64/hw_flask.git" target="_blank">
@@ -37,7 +39,9 @@
         <a href=https://github.com/IvanPonomarev64/hw_sclalchemy.git target="_blank">
          <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
         </a>
-        <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">      
+        <a href=https://github.com/IvanPonomarev64/YouTubeDRF.git>
+          <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"> 
+        </a>
     </li>
     <li><h4> OS </h4>
       <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">

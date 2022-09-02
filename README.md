@@ -35,7 +35,7 @@
       <a href="https://github.com/IvanPonomarev64/hw_docker_compose.git"> Docker Compose </a>,
       <a href="https://github.com/IvanPonomarev64/hw_testing.git"> Unittest </a>
     </li>
-    <li><h4> Databases </h4>
+    <li><h4> DBMS </h4>
         <a href=https://github.com/IvanPonomarev64/hw_sclalchemy.git target="_blank">
          <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
         </a>

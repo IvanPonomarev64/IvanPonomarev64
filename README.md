@@ -1,7 +1,7 @@
 <h1 align="center"> Hi, guest. I'm Ivan
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
-<h3 align="center"> Junior Python Developer from Russia 🇷🇺 </h3>
+<h3 align="center"> Junior Python Developer</h3>
 
 <h3> What I work with: </h3>
 <h6> Note: All links are valid except: HTML and OS.</h6>
